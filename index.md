@@ -12,7 +12,6 @@ My major interests are currently in the [HEP Software Foudation](https://hepsoft
 - [graeme.andrew.stewart@cern.ch](mailto:graeme.andrew.stewart@cern.ch)
 - [+41 22 76 64462](tel:+41227664462)
 - [CERN 32/R-B08](https://maps.cern.ch/mapsearch/mapsearch.htm?n=[%2732/R-B08%27])
-- Post Drop: J26500
 
 ---
 
@@ -21,7 +20,7 @@ My major interests are currently in the [HEP Software Foudation](https://hepsoft
   <div class="container">
     <img class="left" src="/assets/images/EilishCat.jpg" width=150px>
     <p>
-    You might see this image associated with me in various places online. My younger child, Eilish, drew this for me many years ago and I have used it ever since. <emph>Thanks Eilish!</emph>.
+    You might see this image associated with me in various places online. My younger child drew this for me many years ago and I have used it as an avarat ever since. <emph>Thanks Eilish!</emph>.
     </p>
     <div style="clear: both"></div>      
   </div>
