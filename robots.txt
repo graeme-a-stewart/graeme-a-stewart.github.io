@@ -1,0 +1,4 @@
+Sitemap: https://graeme-a-stewart.github.io/sitemap.xml
+
+User-agent: *
+Disallow:
