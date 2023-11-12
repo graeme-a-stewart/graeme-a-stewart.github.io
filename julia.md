@@ -23,6 +23,7 @@ tags = ["syntax", "code"]
 
 ## Training Material
 
-I am helping put together some basic [introductory training
-material](https://github.com/JuliaHEP/JuliaHEP-2023) for Julia to teach at the
+In [JuliaHEP](https://hepsoftwarefoundation.org/workinggroups/juliahep.html) we
+developed some basic [introductory training material](https://juliahep.github.io/JuliaHEP-2023/intro.html)
+for Julia that we taught at the
 [JuliaHEP](https://indico.cern.ch/e/juliahep2023) workshop in Erlangen.
