@@ -6,6 +6,16 @@ title = "Miscellanea"
 
 This is where I put random things that I want to comment on or highlight.
 
+## Role Playing Games
+
+I do love *Tabletop Role Playing Games* and I play at the [CERN Games
+Club](https://games-club.web.cern.ch/rpgs).
+
+In particular I am currently running a campaign using the
+[Shadowdark](https://www.thearcanelibrary.com/pages/shadowdark) rules, called
+*Echos of Albain* (which is unashamedly set in a weird magical fantasy
+Scotland).
+
 ## Language Matters
 
 ### Data *is*
@@ -17,4 +27,4 @@ Data, as used in modern English, is a mass singular uncountable noun. Got it?
 
 ### Underused Words
 
-A [list of words](https://wordwarriors.wayne.edu/list) in English that deserve to be better known and more often used.
+A [list of words](https://wordwarriors.wayne.edu/list) in English that deserve to be better known and more often used. Pick one each week and try to use it!
