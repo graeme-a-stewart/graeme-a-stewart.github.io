@@ -3,7 +3,10 @@ title = "Scientific"
 tags = ["physics", "astronomy", "code"]
 +++
 
-# Science
+# Science CV
+
+@def maxtoclevel=3
+\toc
 
 ## My Scientific Career
 
@@ -66,3 +69,43 @@ R&D](https://ep-rnd.web.cern.ch) projects.
 Currently my [development efforts](/julia) are focusing using
 [Julia](https://julialang.org) as a future language for high-energy physics.
 
+## Highlight Talks
+
+This a non-exhaustive selection of highlight invited talks which I have given:
+
+- [HEP Software Status and Future](https://indico.desy.de/event/38293/contributions/152220/), invited talk at the International Committee for Future Accelerators Seminar 2023, November 2023, Hamburg
+- [The interface to computing - HSF perspective](https://indico.ego-gw.it/event/590/contributions/5602/attachments/3074/5475/et-workshop-software.pdf), Einstein Telescope Computing and Data Requirements Workshop, October 2023, Geneva
+- [Computing in Physics](https://indico.scc.kit.edu/event/3476/contributions/14452/), invited talk at the German Helmholtz Association meeting, September 2023, Karlsruhe
+- [Software and Computing R&D](https://indico.cern.ch/event/949705/contributions/4575453/), 30th International Symposium on Lepton Photon Interactions at High Energies, January 2022
+- [Software R&D an International Perspective](https://indico.stfc.ac.uk/event/331/#27-sc-rd-an-international-pers), invited talk at the UK PPTAP Computing & Software Roadmap Workshop, July 2021
+
+## Published Papers
+
+As an ATLAS author I have more papers than you can shake a stick at... My [current authorship listing](https://inspirehep.net/authors/1071083) is on INSPIRE.
+
+Some highlight recent papers, in which I played a major role, are:
+
+- Polyglot Jet Finding, EPJ Web of Conferences (CHEP 20233), [10.1051/epjconf/202429505017](https://doi.org/10.1051/epjconf/202429505017), 2024
+- Potential of the Julia Programming Language for High Energy Physics Computing, Computing and Software for Big Science, [10.1007/s41781-023-00104-x](https://doi.org/10.1007/s41781-023-00104-x), 2023
+- A Roadmap for HEP Software and Computing R&D for the 2020s, editor. Computing and Software for Big Science, [10.1007/s41781-018-0018-8](https://doi.org/10.1007/s41781-018-0018-8), 2019
+
+### Paper Archive
+
+Here is my publication list from earlier in my career, when I worked in plasma physics and solar physics:
+
+- K Petrovay, J C Brown, L Van Driel-Gesztelyi, L Fletcher, M Marik, and G A Stewart. Asymmeteric flux loops in active regions, ii. Solar Physics, 127:51-64, 1990.
+- G A Stewart and E W Laing. Wave propagation in equal mass plasmas. Journal of Plasma Physics, 47:295-319, 1992.
+- G A Stewart. Nonlinear electrostatic waves in equal mass plasmas. Journal of Plasma Physics, 52:521-536, 1993.
+- S Bravo and G A Stewart. Evolution of polar coronal holes and sunspots during cycles 21 and 22. Solar Physics, 154:377-384, 1994.
+- S Bravo and G A Stewart. The inclination of the heliomagnetic equator and the presence of an inclined relic field in the sun. Astrophysical Journal, 446:431-434, 1995.
+- G A Stewart and S Bravo. Solar flare activity and the large scale structure of the coronal neutral line. Solar Physics, 160:331-341, 1995.
+- N Ya Kotsarenko and G A Stewart. On the cutoff frequency of fast electromagnetic waves in a highly magnetised plasma. Physica Scripta, 55:88-89, 1995.
+- S Bravo and G A Stewart. Latitudinal variation of the helospheric magnetic field during the solar minimum. Geophysical Research Letters, 23:3271-3274, 1996.
+- N Ya Kotsarenko, G A Stewart, and V Vysloukh. Nonlinear low frequency electromagnetic waves in a relativistic electron-positron plasma. Astrophysics and Space Science, 243:427-437, 1996.
+- G A Stewart and S Bravo. Latitudinal solar wind velocity variations from polar coronal holes: A self-consistent mhd model. Journal of Geophysical Research, 102:11263-11272, 1997.
+- S Bravo and G A Stewart. The correlation between sunspot and coronal hole cycles and a forecast of the maximum of sunspot cycle 23. Solar Physics, 173:193-198, 1997.
+- S Bravo and G A Stewart. Fast and slow wind from solar coronal holes. Astrophysical Journal, 489:992-999, 1997.
+- S Bravo, G A Stewart, and X Blanco-Cano. The varying multipolar structure of the sun's magnetic field and the evolution of the solar magnetosphere through the solar cycle. Solar Physics, 179:223-235, 1998.
+- N Ya Kotsarenko, S Koshevaya, G A Stewart, and D Maravilla. Electrostatic spatially limited solitons in a magnetised dusty plasma. Planetary and Space Science, 46:429-433, 1998.
+- N Ya Kotsarenko, G A Stewart, J J S Mondragon, S Koshevaya, A N Kotsarenko, and P A Marquez. Nonlinear electromagnetic waves in a multicomponent plasma. Physica Scripta, 59:302-307, 1999.
+- S Bravo, E Aguilar, X Blanco-Cano, and G A Stewart. Coronal magnetic structures associated with interplanetary clouds. Solar Physics, 188:163-168, 1999.

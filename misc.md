@@ -28,3 +28,7 @@ Data, as used in modern English, is a mass singular uncountable noun. Got it?
 ### Underused Words
 
 A [list of words](https://wordwarriors.wayne.edu/list) in English that deserve to be better known and more often used. Pick one each week and try to use it!
+
+### The Singular *They*
+
+*They* can be perfectly used as a gender neutral singular pronoun in English. In fact this use dates all the way back to the 14th Century, according to [Wikipedia](https://en.wikipedia.org/wiki/Singular_they).
