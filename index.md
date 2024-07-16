@@ -5,11 +5,13 @@
 
 Senior staff scientist at [CERN](https::/home.cern/) in the [Software for Experiments Group](https://ep-dep-sft.web.cern.ch).
 
-My major interests are currently in the [HEP Software Foudation](https://hepsoftwarefoundation.org), the CERN Experimental Physics Department's [R&D programme](https://ep-rnd.web.cern.ch) and in working with [Julia](https://julialang.org) in [HEP](https://www.juliahep.org).
+My major interests are currently in the [HEP Software Foudation](https://hepsoftwarefoundation.org), the CERN Experimental Physics Department's [R&D programme](https://ep-rnd.web.cern.ch) and in working with [Julia](/julia) in [HEP](https://www.juliahep.org).
 
 I also manage software work packages in the
 [AIDAinnova](https://aidainnova.web.cern.ch) and
 [EVERSE](https://everse.software/) European projects.
+
+You can read more about my [scientific career](/science).
 
 ## Contact Me
 
