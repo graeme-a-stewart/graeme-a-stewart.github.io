@@ -73,6 +73,7 @@ Currently my [development efforts](/julia) are focusing using
 
 This a non-exhaustive selection of highlight invited talks which I have given:
 
+- [*Julia in HEP*](https://indico.cern.ch/event/1338689/contributions/6009700/), Computing and High Energy Physics 2024 (Krakow), October 2024
 - [HEP Software Status and Future](https://indico.desy.de/event/38293/contributions/152220/), invited talk at the International Committee for Future Accelerators Seminar 2023, November 2023, Hamburg
 - [The interface to computing - HSF perspective](https://indico.ego-gw.it/event/590/contributions/5602/attachments/3074/5475/et-workshop-software.pdf), Einstein Telescope Computing and Data Requirements Workshop, October 2023, Geneva
 - [Computing in Physics](https://indico.scc.kit.edu/event/3476/contributions/14452/), invited talk at the German Helmholtz Association meeting, September 2023, Karlsruhe

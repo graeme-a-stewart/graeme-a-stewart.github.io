@@ -4,7 +4,7 @@ These are the source pages for my GitHub website.
 
 ## Celeste Template
 
-Based on the wonderful [Celeste](https://github.com/nicoelayda/celeste) template by @nicoelayda.
+Based on the [Celeste](https://github.com/nicoelayda/celeste) template by @nicoelayda.
 
 ## Fraklin.jl
 

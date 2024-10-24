@@ -10,8 +10,16 @@ tags = ["syntax", "code"]
 
 ## Talks on Julia
 
-- [*Jet Reconstruction in Julia*](https://pretalx.com/juliacon2024/talk/LJMZ9W/), Juliacon 2024 (Eindhoven)
-- [*Polyglot Jet Finding*](https://indico.jlab.org/event/459/contributions/11540/), Computing and High Energy Physics 2023 (Norfolk)
+### Invited/Plenary Talks
+
+- [*Julia in HEP*](https://indico.cern.ch/event/1338689/contributions/6009700/), Computing and High Energy Physics 2024 (Krakow), October 2024
+
+### Other Talks
+
+- [*Fast Jet finding in Julia*](https://indico.cern.ch/event/1338689/contributions/6009999/), Computing and High Energy Physics 2024 (Krakow), October 2024
+- [*Fast Jet Reconstruction in Julia*](https://indico.cern.ch/event/1410341/contributions/6135616/), JuliaHEP 2024 (CERN), September 2024
+- [*Jet Reconstruction in Julia*](https://pretalx.com/juliacon2024/talk/LJMZ9W/), Juliacon 2024 (Eindhoven), July 2024
+- [*Polyglot Jet Finding*](https://indico.jlab.org/event/459/contributions/11540/), Computing and High Energy Physics 2023 (Norfolk), May 2023
 
 ## Papers on Julia
 
