@@ -94,11 +94,11 @@ Some highlight recent papers, in which I played a major role, are:
 
 Here is my publication list from earlier in my career, when I worked in plasma physics and solar physics:
 
-- K Petrovay, J C Brown, L Van Driel-Gesztelyi, L Fletcher, M Marik, and G A Stewart. Asymmeteric flux loops in active regions, ii. Solar Physics, 127:51-64, 1990.
-- G A Stewart and E W Laing. Wave propagation in equal mass plasmas. Journal of Plasma Physics, 47:295-319, 1992.
-- G A Stewart. Nonlinear electrostatic waves in equal mass plasmas. Journal of Plasma Physics, 52:521-536, 1993.
-- S Bravo and G A Stewart. Evolution of polar coronal holes and sunspots during cycles 21 and 22. Solar Physics, 154:377-384, 1994.
-- S Bravo and G A Stewart. The inclination of the heliomagnetic equator and the presence of an inclined relic field in the sun. Astrophysical Journal, 446:431-434, 1995.
+- K Petrovay, J C Brown, L Van Driel-Gesztelyi, L Fletcher, M Marik, and G A Stewart. [Asymmeteric flux loops in active regions, II](https://doi.org/10.1007/BF00158513). Solar Physics, 127:51-64, 1990.
+- G A Stewart and E W Laing. [Wave propagation in equal mass plasmas](https://doi.org/10.1017/S0022377800024247). Journal of Plasma Physics, 47:295-319, 1992.
+- G A Stewart. [Nonlinear electrostatic waves in equal mass plasmas](https://doi.org/10.1017/S0022377800017311). Journal of Plasma Physics, 52:521-536, 1993.
+- S Bravo and G A Stewart. [Evolution of polar coronal holes and sunspots during cycles 21 and 22](https://doi.org/10.1007/BF00681106). Solar Physics, 154:377-384, 1994.
+- S Bravo and G A Stewart. [The inclination of the heliomagnetic equator and the presence of an inclined relic field in the sun](https://articles.adsabs.harvard.edu//full/1995ApJ...446..431B/0000431.000.html). Astrophysical Journal, 446:431-434, 1995.
 - G A Stewart and S Bravo. Solar flare activity and the large scale structure of the coronal neutral line. Solar Physics, 160:331-341, 1995.
 - N Ya Kotsarenko and G A Stewart. On the cutoff frequency of fast electromagnetic waves in a highly magnetised plasma. Physica Scripta, 55:88-89, 1995.
 - S Bravo and G A Stewart. Latitudinal variation of the helospheric magnetic field during the solar minimum. Geophysical Research Letters, 23:3271-3274, 1996.
@@ -106,7 +106,7 @@ Here is my publication list from earlier in my career, when I worked in plasma p
 - G A Stewart and S Bravo. Latitudinal solar wind velocity variations from polar coronal holes: A self-consistent mhd model. Journal of Geophysical Research, 102:11263-11272, 1997.
 - S Bravo and G A Stewart. The correlation between sunspot and coronal hole cycles and a forecast of the maximum of sunspot cycle 23. Solar Physics, 173:193-198, 1997.
 - S Bravo and G A Stewart. Fast and slow wind from solar coronal holes. Astrophysical Journal, 489:992-999, 1997.
-- S Bravo, G A Stewart, and X Blanco-Cano. The varying multipolar structure of the sun's magnetic field and the evolution of the solar magnetosphere through the solar cycle. Solar Physics, 179:223-235, 1998.
+- S Bravo, G A Stewart, and X Blanco-Cano. [The varying multipolar structure of the sun's magnetic field and the evolution of the solar magnetosphere through the solar cycle](https://doi.org/10.1023/A:1005017329287). Solar Physics, 179:223-235, 1998.
 - N Ya Kotsarenko, S Koshevaya, G A Stewart, and D Maravilla. Electrostatic spatially limited solitons in a magnetised dusty plasma. Planetary and Space Science, 46:429-433, 1998.
 - N Ya Kotsarenko, G A Stewart, J J S Mondragon, S Koshevaya, A N Kotsarenko, and P A Marquez. Nonlinear electromagnetic waves in a multicomponent plasma. Physica Scripta, 59:302-307, 1999.
 - S Bravo, E Aguilar, X Blanco-Cano, and G A Stewart. Coronal magnetic structures associated with interplanetary clouds. Solar Physics, 188:163-168, 1999.
