@@ -23,6 +23,8 @@ tags = ["syntax", "code"]
 
 ## Papers on Julia
 
+- *Julia in HEP*, [2503.08184](https://arxiv.org/abs/2503.08184)
+- *Fast Jet Finding in Julia*, [2503.08146](https://arxiv.org/abs/2503.08146)
 - *Potential of the Julia Programming Language for High Energy Physics
   Computing*, [2306.03675](https://arxiv.org/abs/2306.03675),
   [10.1007/s41781-023-00104-x](https://doi.org/10.1007/s41781-023-00104-x)
@@ -31,6 +33,13 @@ tags = ["syntax", "code"]
 ## Packages
 
 - [JetReconstruction.jl](https://github.com/JuliaHEP/JetReconstruction.jl) - Reclustering (jet finding) with Julia.
+
+## Other Projects
+
+I supervised students working on various Julia projects:
+
+- [Distributing Julia artefacts on CVMFS](https://indico.cern.ch/event/1410341/contributions/6135602/), with Elvis Agüero
+- [Generative ML models for shower simulation in Julia](https://indico.cern.ch/event/1410341/contributions/6135615/), with Daniel Regado
 
 ## Training Material
 

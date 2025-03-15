@@ -28,7 +28,7 @@ You can read more about my [scientific career](/science).
   <div class="container">
     <img class="left" src="/assets/images/EilishCat.jpg" width=150px>
     <p>
-    You might see this image associated with me in various places online. My younger child drew this for me many years ago and I have used it as an avatar ever since. <emph>Thanks Eilish!</emph>.
+    You might see this image associated with me in various places online. My younger child drew this for me many years ago and I have used it as an avatar ever since. <emph>Thanks Eilish!</emph>
     </p>
     <div style="clear: both"></div>      
   </div>
