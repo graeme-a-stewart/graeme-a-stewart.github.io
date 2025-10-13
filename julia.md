@@ -23,8 +23,8 @@ tags = ["syntax", "code"]
 
 ## Papers on Julia
 
-- *Julia in HEP*, [2503.08184](https://arxiv.org/abs/2503.08184)
-- *Fast Jet Finding in Julia*, [2503.08146](https://arxiv.org/abs/2503.08146)
+- *Julia in HEP*, [2503.08184](https://arxiv.org/abs/2503.08184), [10.1051/epjconf/202533701266](https://doi.org/10.1051/epjconf/202533701266)
+- *Fast Jet Finding in Julia*, [2503.08146](https://arxiv.org/abs/2503.08146), [10.1051/epjconf/202533701067](https://doi.org/10.1051/epjconf/202533701067)
 - *Potential of the Julia Programming Language for High Energy Physics
   Computing*, [2306.03675](https://arxiv.org/abs/2306.03675),
   [10.1007/s41781-023-00104-x](https://doi.org/10.1007/s41781-023-00104-x)

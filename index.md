@@ -3,22 +3,19 @@
 
 # Graeme Andrew Stewart
 
-Senior staff scientist at [CERN](https::/home.cern/) in the [Software for Experiments Group](https://ep-dep-sft.web.cern.ch).
+Research software scientist working in the [IT department](https://it.desy.de/index_eng.html) at the [Deutsches Elektronen-Synchrotron DESY](https://desy.de/index_eng.html) laboratory in Hamburg, Germany.
 
-My major interests are currently in the [HEP Software Foudation](https://hepsoftwarefoundation.org), the CERN Experimental Physics Department's [R&D programme](https://ep-rnd.web.cern.ch) and in working with [Julia](/julia) in [HEP](https://www.juliahep.org).
+My major interests are in promoting and enhancing the role of software for scientific research. I have worked extensively with the [HEP Software Foudation](https://hepsoftwarefoundation.org) and I am currently involved in software training activities and with [Julia](/julia) in [HEP](https://www.juliahep.org).
 
-I also manage software work packages in the
-[AIDAinnova](https://aidainnova.web.cern.ch) and
-[EVERSE](https://everse.software/) European projects.
 
 You can read more about my [scientific career](/science).
 
 ## Contact Me
 
-- [graeme.andrew.stewart@cern.ch](mailto:graeme.andrew.stewart@cern.ch) ||
+- [graeme.andrew.stewart@desy.de](mailto:graeme.andrew.stewart@desy.de) ||
   [graeme.a.stewart@proton.me](mailto:graeme.a.stewart@proton.me)
-- [+41 22 76 64462](tel:+41227664462)
-- [CERN 32/R-B08](https://maps.cern.ch/mapsearch/mapsearch.htm?n=[%2732/R-B08%27])
+- [+49 40 8998 3221](tel:+494089983221)
+- [DESY 02b/318](https://campus.desy.de/en/map/99.2_2)
 - [ORCID: 0000-0003-0182-7088](https://orcid.org/0000-0003-0182-7088)
 
 ---

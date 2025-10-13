@@ -8,13 +8,10 @@ This is where I put random things that I want to comment on or highlight.
 
 ## Role Playing Games
 
-I do love *Tabletop Role Playing Games* and I play at the [CERN Games
-Club](https://games-club.web.cern.ch/rpgs).
+I do love *Tabletop Role Playing Games* and I looking for groups in Hamburg to
+play with.
 
-In particular I am currently running a campaign using the
-[Shadowdark](https://www.thearcanelibrary.com/pages/shadowdark) rules, called
-*Echos of Albain* (which is unashamedly set in a weird magical fantasy
-Scotland).
+Recently I ran a 2 year campaign called *Echos of Albain*, set in a fantasy version of Scotland using the excellent [Shadowdark system](https://www.thearcanelibrary.com/pages/shadowdark).
 
 ## Language Matters
 

@@ -57,17 +57,22 @@ After that, I returned to work for Glasgow, now taking senior roles in ATLAS
 software development, including Core Software Coordinator and overall Software
 Coordinator.
 
-#### CERN Senior Staff Scientist, EP-SFT Group, 2017-date
+#### CERN Senior Staff Scientist, EP-SFT Group, 2017-2025
 
 At this time the [HEP Software Foundation](https://hepsoftwarefoundation.org)
 was gathering momentum - I rejoined CERN, now to work in the *Software for
 Experiments* group, supporting the HSF, as well as leading development of
 software for the high-luminosity upgrade and beyond, in the
 [AIDAinnova](https://aidainnova.web.cern.ch) and the CERN [EP
-R&D](https://ep-rnd.web.cern.ch) projects.
+R&D](https://ep-rnd.web.cern.ch) projects. I also was a work package leader for the [EVERSE project](https://everse.software).
+
+#### DESY Research Software Scientist
+
+In autumn 2025 I joined DESY IT as a research software scientist, focusing on promoting and supporting software in scientific research.
 
 Currently my [development efforts](/julia) are focusing using
-[Julia](https://julialang.org) as a future language for high-energy physics.
+[Julia](https://julialang.org) as a future language for scientific computing
+and thinking about how to apply that to projects at DESY.
 
 ## Highlight Talks
 
@@ -86,7 +91,9 @@ As an ATLAS author I have more papers than you can shake a stick at... My [curre
 
 Some highlight recent papers, in which I played a major role, are:
 
-- Polyglot Jet Finding, EPJ Web of Conferences (CHEP 20233), [10.1051/epjconf/202429505017](https://doi.org/10.1051/epjconf/202429505017), 2024
+- Julia in HEP, EPJ Web of Conferences 337 (CHEP 2024), [https://doi.org/10.1051/epjconf/202533701266](https://doi.org/10.1051/epjconf/202533701266), 2025
+- Fast Jet Finding in Julia, EPJ Web of Conferences 337 (CHEP 2024), [10.1051/epjconf/202533701067](https://doi.org/10.1051/epjconf/202533701067), 2025
+- Polyglot Jet Finding, EPJ Web of Conferences 295 (CHEP 2023), [10.1051/epjconf/202429505017](https://doi.org/10.1051/epjconf/202429505017), 2024
 - Potential of the Julia Programming Language for High Energy Physics Computing, Computing and Software for Big Science, [10.1007/s41781-023-00104-x](https://doi.org/10.1007/s41781-023-00104-x), 2023
 - A Roadmap for HEP Software and Computing R&D for the 2020s, editor. Computing and Software for Big Science, [10.1007/s41781-018-0018-8](https://doi.org/10.1007/s41781-018-0018-8), 2019
 
