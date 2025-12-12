@@ -12,8 +12,7 @@ You can read more about my [scientific career](/science).
 
 ## Contact Me
 
-- [graeme.andrew.stewart@desy.de](mailto:graeme.andrew.stewart@desy.de) ||
-  [graeme.a.stewart@proton.me](mailto:graeme.a.stewart@proton.me)
+- [graeme.andrew.stewart@desy.de](mailto:graeme.andrew.stewart@desy.de)
 - [+49 40 8998 3221](tel:+494089983221)
 - [DESY 02b/318](https://campus.desy.de/en/map/99.2_2)
 - [ORCID: 0000-0003-0182-7088](https://orcid.org/0000-0003-0182-7088)
